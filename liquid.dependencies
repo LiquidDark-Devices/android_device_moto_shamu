@@ -1,6 +1,12 @@
 [
   {
-    "repository": "android_kernel_moto_shamu",
-    "target_path": "kernel/moto/shamu"
+    "repository": "LineageOS/android_kernel_moto_shamu",
+    "target_path": "kernel/moto/shamu",
+    "branch": "cm-14.1"    
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola/shamu",
+    "branch": "cm-14.1"
   }
 ]
