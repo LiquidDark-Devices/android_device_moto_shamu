@@ -6,7 +6,7 @@
   },
   {
     "repository": "TheMuppets/proprietary_vendor_motorola",
-    "target_path": "vendor/motorola/shamu",
+    "target_path": "vendor/motorola",
     "branch": "cm-14.1"
   }
 ]
